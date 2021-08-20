@@ -1,0 +1,24 @@
+span{
+    background-color: yellow;
+    color: darkred;
+}
+    h1{
+        color: red;
+    }
+    ol{
+        color: tomato;
+    }
+    ul{
+        color: purple;
+        letter-spacing: 3px;
+    }
+    h3{
+        color: orangered;
+    }
+    p{
+        color:saddlebrown;
+    }
+    body{
+        background-image: url("./pic/pexels-photo-747964.jpeg");
+        background-size: cover;
+    }
